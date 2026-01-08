@@ -1,0 +1,5 @@
+Supervised and unsupervised learning are two main types of machine learning.
+In supervised learning, the model is trained with labeled data where each input has a corresponding output.
+On the other hand, unsupervised learning involves training the model with unlabeled data which helps to uncover patterns, structures or relationships within the data without predefined outputs.
+What is Supervised Learning?
+Imagine teaching a child to identify different fruits. You show them an apple and say “apple,” then you show them a banana and say “banana.” 
