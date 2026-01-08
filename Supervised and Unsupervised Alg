@@ -2,4 +2,19 @@ Supervised and unsupervised learning are two main types of machine learning.
 In supervised learning, the model is trained with labeled data where each input has a corresponding output.
 On the other hand, unsupervised learning involves training the model with unlabeled data which helps to uncover patterns, structures or relationships within the data without predefined outputs.
 What is Supervised Learning?
-Imagine teaching a child to identify different fruits. You show them an apple and say “apple,” then you show them a banana and say “banana.” 
+Imagine teaching a child to identify different fruits. 
+You show them an apple and say “apple,” then you show them a banana and say “banana.” 
+Supervised learning works similarly: we train a model on a labeled dataset, where each piece of data is paired with the correct answer, or “label”. 
+By learning this connection between the data and its label, the model can then predict labels for new, unseen data.
+Examples of Labeled Datasets:
+Images of cats and dogs, labeled as “cat” or “dog.”
+Customer data with labels indicating whether they churned or not.
+Medical records with diagnoses.
+Common Use Cases:
+Supervised learning is a versatile tool that can be used to solve a wide variety of problems. Some of the most common use cases include:
+Fraud detection: Supervised learning can be used to train models that can detect fraudulent transactions. 
+This is done by training the model on a dataset of labeled transactions, where each transaction is labeled as either “fraudulent” or “not fraudulent”.
+Customer churn prediction: Supervised learning can be used to train models that can predict which customers are likely to churn.
+This is done by training the model on a dataset of labeled customer data, where each customer is labeled as either “churned” or “not churned”.
+Medical diagnosis: Supervised learning can be used to train models that can diagnose diseases. 
+This is done by training the model on a dataset of labeled medical images, where each image is labeled with the corresponding diagnosis.
